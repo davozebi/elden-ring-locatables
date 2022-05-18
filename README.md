@@ -2,7 +2,6 @@
 A search engine for the video game Elden Ring
 
 Setup:
-
 1. Download and install the [WAMP Server](https://www.wampserver.com/en/) in 'C:\wamp64'.
 
 2. Run the WAMP Server, make sure all three services are running.
@@ -22,5 +21,4 @@ Setup:
 
 
 Execution:
-
 8. Open 'localhost/FinalProject'.
