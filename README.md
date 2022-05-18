@@ -1,5 +1,5 @@
 # elden-ring-locatables
-A search engine for the video game Elden Ring
+A search engine web app for the video game Elden Ring
 
 1. Download and install the [WAMP Server](https://www.wampserver.com/en/) in 'C:\wamp64'.
 
