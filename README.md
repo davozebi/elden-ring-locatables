@@ -22,7 +22,6 @@ A simple search engine web app for the video game Elden Ring
 
 Demonstration:
 
-<img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/000.png" alt="000.png" width=100% height=100% />
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/001.png" alt="001.png" width=100% height=100% />
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/002.png" alt="002.png" width=100% height=100% />
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/003.png" alt="003.png" width=100% height=100% />
