@@ -49,6 +49,3 @@ Demonstration:
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/024.jpg" alt="024.jpg" width=75% height=75% />
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/025.jpg" alt="025.jpg" width=75% height=75% />
 <img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/026.jpg" alt="026.jpg" width=75% height=75% />
-<img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/027.jpg" alt="027.jpg" width=75% height=75% />
-<img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/028.jpg" alt="028.jpg" width=75% height=75% />
-<img src="https://github.com/davozebi/elden-ring-locatables/raw/main/demo/029.jpg" alt="029.jpg" width=75% height=75% />
